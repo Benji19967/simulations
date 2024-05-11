@@ -3,10 +3,13 @@
 ## Mathematics Background (walk before you run!)
 
 - Mathematics Models in the Physical Sciences by Boas.
+    - Great for ODEs and PDEs, which are everywhere in Physics. 
+    - Great overview and introduction before going deeper into specific areas.
     - Solve problems of the topics already familiar! (Chapter 1-6, 8 which cover Calculus)
         - Pencil and paper at hand!
     - Then: Chapter 7, 8 and first four sections of Chapter 13. 
     - "You should not feel satisfied with your study of a chapter until you can solve a reasonable number of these problems."
+    - Answer book: https://personal.utdallas.edu/~pervin/ENGR3300/answer_book.pdf
 
 ## Online Courses
 
@@ -52,3 +55,9 @@ Whenever you write a program, keep in mind:
 - What memory and time will be required for the final results?
 - What's the physics expected to come out of this situation? Does it match with what the computer is telling me?
 - Can I take a quick way out?
+
+### Advanced Ideas
+
+- Patrick Diamond (PhD MIT, UCSD Physics Professor) answer on Quora
+    - Contains MANY suggestions!
+    - https://qr.ae/psUUAv
