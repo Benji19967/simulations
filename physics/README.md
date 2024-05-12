@@ -28,12 +28,13 @@
 
 ## Languages
 
-It might be worth it to investigate pro's and con's of the following languages and 
+It might be worth it to investigate pros and cons of the following languages and 
 what they are best suited for. 
 
 - Python
 - C++
 - Julia
+- Rust (getting some traction in computational biology, see https://rust-bio.github.io/)
 
 ## Ideas
 
