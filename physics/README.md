@@ -24,6 +24,18 @@
 
 - Introduction to Computational Physics at ETHZ (2011-2017)
     - https://ethz.ch/content/dam/ethz/special-interest/baug/ifb/ifb-dam/homepage-IfB/Education/bsc_courses/bsc-intro-comphys/documents/CompPhysScript-2017.pdf
+    - Computational physics plays an important role in the following fields:
+        • Computational Fluid Dynamics (CFD): solve and analyze problems that
+        involve fluid flows
+        • Classical Phase Transition: percolation, critical phenomena
+        • Solid State Physics (Quantum Mechanics)
+        • High Energy Physics / Particle Physics: in particular Lattice Quantum
+        Chromodynamics (“Lattice QCD”)
+        • Astrophysics: many-body simulations of stars, galaxies etc.
+        • Geophysics and Solid Mechanics: earthquake simulations, fracture, rupture,
+        crack propagation etc.
+        • Agent Models (interdisciplinary): complex networks in biology, economy,
+        social sciences and many others
     
 
 ## Languages
